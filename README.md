@@ -10,7 +10,7 @@
 - 💼 Worked as a Software Engineering Intern @ EY Digital Engineering
 - 🌐 Worked as a Web Developer Intern @ U+ Education
 - 🤖 Built and deployed a sim-to-real RL controller for a rotary inverted pendulum [Demo](https://www.youtube.com/watch?v=Agkeckp2kVY)
-- ♟️ Built a C++ chess engine with a neural network evaluator
+- ♟️ Built a C++ chess engine with a neural network evaluator [Repo](https://github.com/natelamarche/chess-bot)
 - 🚀 Built a full-stack application used by thousands of users [Goose Trials](https://www.goosetrials.com)
 
 <h3 align="left">Connect with me:</h3>
