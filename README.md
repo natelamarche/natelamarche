@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Nate Lamarche</h1>
-<h3 align="center">Software Engineering @ University of Waterloo</h3>
-
-I'm interested in machine learning, reinforcement learning, systems, and high-performance software.
+<h3 align="center">Software Engineering · Machine Learning · Systems</h3>
 
 ### I'm currently:
 - 🎓 Studying Software Engineering @ University of Waterloo
-- 📚 Exploring machine learning, reinforcement learning, compilers, and systems
+- 📚 I'm interested in machine learning, reinforcement learning, systems, and high-performance software.
 - 🔨 Building and experimenting with new technical projects
 
 ### I've previously:
