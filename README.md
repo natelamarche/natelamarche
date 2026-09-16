@@ -4,12 +4,15 @@
 I'm interested in machine learning, reinforcement learning, systems, and high-performance software.
 
 ### I'm currently:
-- 🤖 Building sim-to-real reinforcement learning systems and other ML projects
-- ♟️ Developing a C++ chess engine with a neural network evaluator
+- 🎓 Studying Software Engineering @ University of Waterloo
+- 📚 Exploring machine learning, reinforcement learning, compilers, and systems
+- 🔨 Building and experimenting with new technical projects
 
 ### I've previously:
 - 💼 Worked as a Software Engineering Intern @ EY Digital Engineering
 - 🌐 Worked as a Web Developer Intern @ U+ Education
+- 🤖 Built and deployed a sim-to-real RL controller for a rotary inverted pendulum
+- ♟️ Built a C++ chess engine with a neural network evaluator
 - 🚀 Built full-stack applications used by thousands of users
 
 <h3 align="left">Connect with me:</h3>
