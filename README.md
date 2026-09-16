@@ -1,6 +1,17 @@
 <h1 align="center">Hey 👋, I'm Nate Lamarche</h1>
 <h3 align="center">Software Engineering @ University of Waterloo</h3>
 
+I'm interested in machine learning, reinforcement learning, systems, and high-performance software.
+
+### I'm currently:
+- 🤖 Building sim-to-real reinforcement learning systems and other ML projects
+- ♟️ Developing a C++ chess engine with a neural network evaluator
+
+### I've previously:
+- 💼 Worked as a Software Engineering Intern @ EY Digital Engineering
+- 🌐 Worked as a Web Developer Intern @ U+ Education
+- 🚀 Built full-stack applications used by thousands of users
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/natelamarche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natelamarche" height="30" width="40" /></a>
