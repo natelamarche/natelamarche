@@ -3,7 +3,7 @@
 
 ### I'm currently:
 - 🎓 Studying Software Engineering @ University of Waterloo
-- 📚 I'm interested in machine learning, reinforcement learning, systems, and high-performance software.
+- 📚 Interested in machine learning, reinforcement learning, systems, and high-performance software.
 - 🔨 Building and experimenting with new technical projects
 
 ### I've previously:
